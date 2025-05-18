@@ -13,9 +13,16 @@ I want to communicate with the team and develop happily.
 * LG CNS AM Inspire Camp
   * 1st Camp Member <sub>(2024.12 ~ 2025.06)
 <br>
+
+## 💻 Projects
+| Name     | Period              | Introduction | Role           |
+|:---------|:-------------------:|:------------:|:---------------|
+| DrinkiG  | 2024.07 ~           | [간편한 와인문화를 위한 IOS 앱](https://github.com/Drink-Easy/backend)  | Backend Leader |
+| Scennect | 2024.03 ~ 2024.11   | [Stable Diffusion을 이용한 협업 AI 디자인 툴](https://github.com/scennect/Backend/) | Backend Leader |
+ <br>
  
 ## 🛠 Tech Stack
-### 💻 Backend
+### 🔙 Backend
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
