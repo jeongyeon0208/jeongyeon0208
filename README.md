@@ -17,8 +17,9 @@ I want to communicate with the team and develop happily.
 ## 💻 Projects
 | Name     | Period              | Introduction | Role           |
 |:---------|:-------------------:|:------------:|:---------------|
-| DrinkiG  | 2024.07 ~           | [간편한 와인문화를 위한 IOS 앱](https://github.com/Drink-Easy/backend)  | Backend Leader |
+| DrinkiG  | 2024.07 ~ 진행중          | [간편한 와인문화를 위한 IOS 앱](https://github.com/Drink-Easy/backend)  | Backend Leader |
 | Scennect | 2024.03 ~ 2024.11   | [Stable Diffusion을 이용한 협업 AI 디자인 툴](https://github.com/scennect/Backend/) | Backend Leader |
+| POPI | 2025.04 ~ 2025.06   | [무인 팝업 운영 웹](https://github.com/popi-official/popi-manager-server), [팝업 사용자 앱](https://github.com/popi-official/popi-user-server) | Backend Developer |
  <br>
  
 ## 🛠 Tech Stack
